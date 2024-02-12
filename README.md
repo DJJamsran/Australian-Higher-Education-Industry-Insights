@@ -4,7 +4,7 @@
 
 ### Dashboard of Insights 
 <a target="">
-  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_HE.png.png" width="1000"/>
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_sales_analysis.png" width="1000"/>
 </a>
 
 ### Check out the dashboards on Tablea Public link
