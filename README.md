@@ -1,9 +1,10 @@
 <p>
-  <h1 align="left"><b> Market Insight Analysis 📊 </b></h1>
+  <h1 align="left"><b> Industry Insight Analysis 📊 </b></h1>
 <a align="left"> </a>. 
 </p>
 
 <br>
+
 ### Dashboard of Insights 
 <a target="">
   <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_HE.png.png" width="1000"/>
